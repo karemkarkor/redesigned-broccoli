@@ -1,7 +1,7 @@
-import express from 'express'
+import express from "express";
 
 const app = express();
 
-app.get("/", (req, res) => res.status(200).json({msg:"running"}))
+app.get("/", (req, res) => res.status(200).json({ msg: "running" }));
 
 export default app;
