@@ -5,7 +5,7 @@ const aj = arcjet({
   rules: [
     shield({ mode: "LIVE" }),
     detectBot({
-      mode: "DRY_RUN",
+      mode: process.env.ARCJET_ENV === "development"? "DRY_RUN": "LIVE",
       allow: [
         "CATEGORY:SEARCH_ENGINE",
         "CATEGORY:MONITOR"

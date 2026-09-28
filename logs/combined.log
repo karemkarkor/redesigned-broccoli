@@ -95,3 +95,6 @@
 {"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
 {"level":"info","message":"::1 - - [28/Sep/2026:02:09:41 +0000] \"GET /heath HTTP/1.1\" 429 51 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
 {"level":"info","message":"::1 - - [28/Sep/2026:02:09:55 +0000] \"GET /heath HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:22:22:06 +0000] \"GET /heath HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/2.8.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.8.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:22:22:22 +0000] \"GET /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.8.0\"","service":"Acquisitions-api"}
