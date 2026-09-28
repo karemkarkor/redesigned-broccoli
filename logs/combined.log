@@ -37,3 +37,61 @@
 {"level":"info","message":"::1 - - [28/Sep/2026:00:55:54 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 500 1371 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
 {"level":"info","message":"::1 - - [28/Sep/2026:00:56:08 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 500 1371 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
 {"level":"info","message":"::1 - - [28/Sep/2026:00:58:39 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 36 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:01:25 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:01:41 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:01:42 +0000] \"POST /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/healthz","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:01:53 +0000] \"POST /healthz HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/healthz","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:01:54 +0000] \"POST /healthz HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:02:09 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:02:10 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:03:56 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:05:55 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:05:58 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:05:59 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:06:00 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:06:28 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:06:40 +0000] \"POST /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:06:52 +0000] \"GET /heath HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:30 +0000] \"GET /heath HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:42 +0000] \"GET /heath HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:44 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:45 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:45 +0000] \"GET /heath HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:46 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:46 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:47 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:47 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:47 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:48 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:50 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:50 +0000] \"GET /heath HTTP/1.1\" - - \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:08:50 +0000] \"GET /heath HTTP/1.1\" 439 51 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:09:33 +0000] \"GET /heath HTTP/1.1\" 429 51 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/heath","service":"Acquisitions-api","userAgent":"PostmanRuntime/2.7.0"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:09:41 +0000] \"GET /heath HTTP/1.1\" 429 51 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
+{"level":"info","message":"::1 - - [28/Sep/2026:02:09:55 +0000] \"GET /heath HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/2.7.0\"","service":"Acquisitions-api"}
